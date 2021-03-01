@@ -1,0 +1,20 @@
+.Statistics {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+
+.Title {
+  text-align: center;
+  margin-top: 0;
+  font-size: 40px;
+  font-weight: 500;
+  background-color: azure;
+}
+
+.List {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
